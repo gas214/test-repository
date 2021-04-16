@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Gocd 
 
-This project wis for testing gocd pipelines. 
+This project wis for testing gocd pipelines. new commit to be removed
 
 ## Development server
 
